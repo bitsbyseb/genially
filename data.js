@@ -10,13 +10,13 @@ const teamData = {
     members: [
         {
             id: 1,
-            name: "Nissy Dayana Oliva Amezquite",
+            name: "Nissy Dayana Oliva Amezquita",
             responses: [
                 "Yeah, I’ve ridden a horse three times. The first two were on my boyfriend's horse, he taught me the basics of how to get on and steer. I actually rode bareback, which was a bit risky since the horse was still getting used to being ridden, but it was totally worth it",
                 "Yes, right now with my boyfriend! We’ve been together for years. Falling in love is really nice, but you definitely have to learn how to mature together to make the relationship grow.",
                 "No, I’ve never been to a stadium before. I just haven’t had the chance yet, so I've only watched games on TV.",
                 "Not yet, but I’d love to go someday",
-                " I haven’t had the chance to travel abroad yet, but I really hope to do it in the future. I haven’t had the chance to travel abroad yet, but I really hope to do it in the future."
+                " I haven’t had the chance to travel abroad yet, but I really hope to do it in the future."
             ]
         },
         {
@@ -57,7 +57,8 @@ const teamData = {
                 "Yes, I've ridden a horse",
                 "No, I've never fallen in love",
                 "No, I have never been to a soccer game",
-                "Yes, I've been to the beach many times"
+                "Yes, I've been to the beach many times",
+                "No, i have not traveled to another country but i'd like to visit panama"
             ]
         },
     ]
