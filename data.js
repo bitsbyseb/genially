@@ -34,20 +34,22 @@ const teamData = {
             id: 3,
             name: "Dylan Alejandro Guzman Gomez",
             responses: [
-                "Yes, I went horseback riding on vacation last year.",
-                "Not yet, but I'm hoping to find love soon.",
-                "Yes, I played soccer in college.",
-                "Yes, I spent my whole childhood at the beach."
+                "Yes, I rode a horse at Parque del Café a few years ago.",
+                "Yes, it is the most beautiful sentence in life.",
+                "Yes, a few years ago in Cali, there was a soccer match between América de Cali and Millonarios.",
+                "Not exactly right by the sea, but you could say it's similar—in Prado, Tolima.",
+                "No, but it's an experience I hope to have soon."
             ]
         },
         {
             id: 4,
             name: "Cristian Danilo Valle Amortegui",
             responses: [
-                "No, I'm afraid of horses.",
-                "Yes, I've been in love since high school.",
-                "No, I prefer watching tennis.",
-                "No, I live inland but visit beaches when traveling."
+                "No, I have never ridden a horse. I would like to try it someday.",
+                "Yes, I have fallen in love before. It was a very special experience for me.",
+                "Yes, I have been to a soccer game. I really like soccer, and I also play it.",
+                "Yes, I have been to the beach. I went to the beaches of Cartagena, Colombia. I really enjoyed the beautiful beaches and the warm weather.",
+                "No, I have never traveled to another country. I have only traveled within Colombia."
             ]
         },
         {
